@@ -1,0 +1,15 @@
+.container {
+  padding: 20px;
+  cursor: pointer;
+  background-color: #53c28b;
+  border: none;
+  border-radius: 5px;
+  width: max-content;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .container {
+    margin-bottom: 2rem;
+  }
+}
